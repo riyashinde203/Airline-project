@@ -1,1 +1,0 @@
-Welcome to the Airplane Reservation Website! This project is designed to provide a seamless and intuitive experience for booking flights online. Built using HTML, CSS, and JavaScript, the website offers a user-friendly interface and efficient functionality to help users search for flights, view details, and make reservations effortlessly.
